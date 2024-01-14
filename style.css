@@ -1,0 +1,17 @@
+.extension-settings {
+    margin-bottom: 20px;
+}
+
+.inline-drawer-header {
+    cursor: pointer;
+    user-select: none;
+}
+
+.inline-drawer-content {
+    display: none;
+    padding: 10px;
+}
+
+.inline-drawer-toggle.active .inline-drawer-content {
+    display: block;
+}
